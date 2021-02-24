@@ -52,4 +52,4 @@ I started programming at around 13 I had nothing but a locked down school issued
   If you would like to see more checkout the rest of my github or send me an email 
   <hr>
   If you are a non-profit I work free for good causes 
-  If your an employer or a company owner please help a starting developer get started in life 
+  If your are an employer I look forward to hearing from you 
