@@ -46,4 +46,6 @@ I started programming at around 13 I had nothing but a locked down school isued 
 
 <hr>
   <h1>Things I have done</h1>
+  I Curently Co-run a small non proffit hosting provider with my friend @carterpeel **[Pinnoui.xyz](https://pinnoui.xyz)**.
+  My own website i use for what ever strikes my fancy **[Failnet]**(https://failnet.xyz)**
   
