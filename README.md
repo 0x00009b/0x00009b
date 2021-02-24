@@ -31,8 +31,9 @@ I started programming at around 13 I had nothing but a locked down school issued
 - IOS 
 - Andriod 
 - Linux (Debian (as well as anything debian based) , Ubuntu , Arch , and alpine are the ones I am comfortable in ) 
-- Windows 
+- Windows vista/7/8.1/10 and windows server 2000
 - BSD/UNIX
+- fedora (redhat)
 
 ## My extra abilities
 - I know CPR 
