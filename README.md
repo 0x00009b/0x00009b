@@ -3,13 +3,14 @@
 <hr>
 <h2>About Me</h2>
 I am a self taught programmer, Linux neck beard, web dev and FOSS enthusiast. I hope to someday work at a large tech Corp (not Google, Facebook, or Twitter ) and eventualy start my own.
+<br>
+I started programming at around 13 I had nothing but a locked down school issued ipad to work with. I have learned much since then and am still learning because in this wonderfull world of 1's and 0's you never stop learning because it is always changing and the lands are always shifting.
 
-I started programming at around 13 I had nothing but a locked down school isued ipad to work with. I have learned much since then and am still learning because in this wonderfull world of 1's and 0's you never stop learning because it is always changing and the lands are always shifting.
 <hr>
 
-<h3>My Skillset</h3>
+<h1>My Skillset</h1>
 
-<h1>Technology Stack</h1>
+<h3>Technology Stack</h3>
 
 ## Programming Languages I know
 - Bash 
