@@ -10,8 +10,6 @@ I started programming at around 13 I had nothing but a locked down school issued
 
 <h1>My Skillset</h1>
 
-<h3>Technology Stack</h3>
-
 ## Programming Languages I know
 - Bash 
 - Html,css,js 
@@ -35,8 +33,6 @@ I started programming at around 13 I had nothing but a locked down school issued
 - Linux (Debian (as well as anything debian based) , Ubuntu , Arch , and alpine are the ones I am comfortable in ) 
 - Windows 
 - BSD/UNIX
-
-<h3>Other things</h3>
 
 ## My extra abilities
 - I know CPR 
