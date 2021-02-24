@@ -21,7 +21,7 @@ I started programming at around 13 I had nothing but a locked down school isued 
 - PHP 
 - SQL
 - vlang 
-- 
+
 ## CMS and web Technologies I know
 - Wordpress
 - cpanel
