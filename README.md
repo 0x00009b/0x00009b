@@ -33,7 +33,8 @@ I started programming at around 13 I had nothing but a locked down school isued 
 - Linux (Debian (as well as anything debian based) , Ubuntu , Arch , and alpine are the ones I am comfortable in ) 
 - Windows 
 - BSD/UNIX
-<h3>Other things<h3>
+<h3>Other things</h3>
+## My extra abilities
   - I know CPR 
   - I use Arch linux as a daily driver 
   - I can work alone or as part of a team 
