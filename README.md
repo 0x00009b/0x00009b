@@ -39,13 +39,20 @@ I started programming at around 13 I had nothing but a locked down school isued 
 
 ## My extra abilities
 - I know CPR 
+- I am good with people and love helping others
 - I use Arch linux as a daily driver 
 - I can work alone or as part of a team 
+- I have studied INFOSEC and OSINT and have become quite proficient in them
 - Can copy paste from stack overflow 
 
 
 <hr>
   <h1>Things I have done</h1>
-  I Curently Co-run a small non proffit hosting provider with my good friend Carter Peel Https://pinnoui.xyz.
+  I Curently Co-run a small non proffit hosting provider with my good friend Carter Peel https://pinnoui.xyz
+  <br>
   My own website i use for what ever strikes my fancy https://failnet.xyz
+  <br>
   If you would like to see more checkout the rest of my github or send me an email 
+  <hr>
+  If you are a non-profit I work free for good causes 
+  If your an employer or a company owner please help a starting developer get started in life 
