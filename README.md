@@ -27,18 +27,23 @@ I started programming at around 13 I had nothing but a locked down school isued 
 - cpanel
 - DokuWiki
 - Wikimedia
+
 ## Operating systems I have worked with
 - IOS 
 - Andriod 
 - Linux (Debian (as well as anything debian based) , Ubuntu , Arch , and alpine are the ones I am comfortable in ) 
 - Windows 
 - BSD/UNIX
+
 <h3>Other things</h3>
+
 ## My extra abilities
-  - I know CPR 
-  - I use Arch linux as a daily driver 
-  - I can work alone or as part of a team 
-  - Can copy paste from stack overflow 
+- I know CPR 
+- I use Arch linux as a daily driver 
+- I can work alone or as part of a team 
+- Can copy paste from stack overflow 
+
+
 <hr>
   <h1>Things I have done</h1>
   
