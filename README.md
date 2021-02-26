@@ -18,7 +18,7 @@ I started programming at around 13 I had nothing but a locked down school issued
 
 ## Languages I am learning 
 - PHP 
-- SQL
+- C
 - vlang 
 
 ## CMS and web Technologies I know
