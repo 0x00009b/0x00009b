@@ -15,6 +15,7 @@ I started programming at around 13 I had nothing but a locked down school issued
 - Html,css,js 
 - Python3 
 - BASIC 
+- COBOL
 
 ## Languages I am learning 
 - PHP 
