@@ -15,7 +15,7 @@
 ## Languages I am learning 
 - PHP 
 - C
-- vlang 
+- golang
 
 ## CMS and web Technologies I know
 - Wordpress
@@ -43,6 +43,3 @@
 
 
 <hr>
-  <h1>Things I have done</h1>
-  I Curently Co-run a small non proffit hosting provider with my good friend Carter Peel https://pinnoui.xyz
-  
