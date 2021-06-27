@@ -37,7 +37,7 @@
 - I am good with people and love helping others
 - I use Arch linux as a daily driver 
 - I can work alone or as part of a team 
-- I have studied INFOSEC and OSINT and have become quite proficient in them
+- Offensive security
 - I am fairly good at lockpicking
 - Can copy paste from stack overflow 
 
